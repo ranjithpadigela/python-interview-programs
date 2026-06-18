@@ -1,0 +1,1 @@
+created a class A with the constructor which expects the two parameters x and y and also there is a add function of both x and y we use self keyword which thoughts its dedicated to this class only.

@@ -1,0 +1,1 @@
+Add two numbers using a class.
