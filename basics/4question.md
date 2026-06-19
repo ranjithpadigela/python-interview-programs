@@ -1,0 +1,1 @@
+4.Use a lambda function to solve a coding problem.
