@@ -1,0 +1,2 @@
+Suppose we have two items missing in a sequence of consecutive integers and the missing elements lie between the first and last elements. I did write a code that does accomplish the task. However, I wanted to make it efficient using less loops if possible. Any help will be appreciated. Also what about the condition when we have to find more missing items (say close to n/4) instead of 2. I think then my code should be efficient right because I am breaking out from the loop earlier?
+
