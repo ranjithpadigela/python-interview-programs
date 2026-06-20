@@ -1,0 +1,1 @@
+7.Handle an empty list as an edge case.
